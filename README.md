@@ -1,16 +1,14 @@
----
-
----
-
 ![](https://ws4.sinaimg.cn/large/006tNbRwgy1fy0u8c0w6ej31c00u0h9q.jpg)
 
 
 
-Hi, 欢迎你访问我的网站。
+欢迎你访问我使用 GitHub Pages 创建的网站。
 
-这个一个个人网站，主要是记录了（奇奇怪怪的）一些东西。
+Welcome to the website I created using GitHub Pages.
 
-值得留意的是，它并不一个记录技术的博客，如果你有兴趣了解我在专业技能上的学习记录，可以点击右侧边栏的`CSND博客`，如果在领域中能够帮助到你，是我的荣幸。
+
+
+
 
 
 

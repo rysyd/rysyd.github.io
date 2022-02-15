@@ -1,10 +1,9 @@
-欢迎访问我使用 GitHub Pages 创建的网站。
+I can eat glass and it doesn't hurt me.
 
-Welcome to the website I created using GitHub Pages.
+我能吞下玻璃而不傷身體。
 
+私はガラスを食べられます。それは私を傷つけません。
 
+Je peux manger du verre, ça ne me fait pas mal.
 
-
-
-
-
+Puedo comer vidrio, no me hace daño. 
